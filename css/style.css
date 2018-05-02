@@ -63,6 +63,9 @@
   font-size: 20px;
 }
 @media (max-width: 767px) {
+  .main{
+    background-position: center;
+  }
   .header {
     text-align: center;
   }
